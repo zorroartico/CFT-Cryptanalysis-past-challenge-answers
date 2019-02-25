@@ -14,3 +14,5 @@ for num in range(1,526):
 # Iterate using for method.
 
 # Password is therefore: pr0ggen
+
+# Solution by Hyun Su Seong
